@@ -1,4 +1,4 @@
-# PDF-Manager : Your Personal PDF Manager
+#Vibrant PDF-Manager : Your Personal PDF Manager
 
 Tech Stack used: MERN,Firebase Storage(for stroring pdfs)
 
